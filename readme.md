@@ -1,2 +1,2 @@
-Este é meu repositório inicial Desafio 02
+Este é meu link do Desafio 02
 netlify [https://rid112267desafio02.netlify.app/]
